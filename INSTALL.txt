@@ -1,0 +1,14 @@
+
+1. Download the vimcolor tarball and extract it in your wordpress plugin folder.
+   Add the content of style.ccs to your themes css. 
+
+2. Install the Text::VimColor Perl module.  If you have root access to your
+server you can just do a `perl -MCPAN -e 'install Text::VimColor'`.
+VIM also needs to be installed on your system. 
+
+3. Activate the module. 
+
+4. You can post your code like:
+<code type="yourtype">
+your code
+</code>
